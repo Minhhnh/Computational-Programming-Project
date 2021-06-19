@@ -1,0 +1,4 @@
+Duong di voi tong khoang cach nho nhat qua tat ca cac thanh pho:
+0->4->9->15->16->7->2->3->8->12->10->19->18->6->14->1->13->11->17->5->0
+
+Do dai doan duong di:2061.15

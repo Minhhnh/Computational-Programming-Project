@@ -1,0 +1,4 @@
+Duong di voi tong khoang cach nho nhat qua tat ca cac thanh pho:
+1->7->8->2->5->3->9->10->6->4->1
+
+Do dai doan duong di:1411.42
